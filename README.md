@@ -1,1 +1,2 @@
-# CPP Training notes and examples
+# CPP Training notes
+
